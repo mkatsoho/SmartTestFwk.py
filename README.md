@@ -1,4 +1,4 @@
-SmartTestFwk
+SmartTestFwk.py
 ============
 
-A test framework in python (beyond unit test framework like xUnit)
+A automation test framework in python, with features beyond unit test libaray like xUnit.
